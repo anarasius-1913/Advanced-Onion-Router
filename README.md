@@ -230,4 +230,4 @@ Advanced Onion Router is offered as a full free version with all features and up
 Take control of your privacy today! Download Advanced Onion Router for free and experience the freedom of anonymous browsing.
 
 ---
-**Last updated:** 2026-10-23 10:52:18 UTC
+**Last updated:** 2026-10-23 15:36:06 UTC
